@@ -10,7 +10,7 @@ Uso Gratuito AWS
 https://aws.amazon.com/pt/free
 
 
-Materiais
+Materiais AWS
 
 AWS CAF 
 
@@ -29,7 +29,7 @@ https://docs.aws.amazon.com/prescriptive-guidance/latest/aws-caf-platform-perspe
 https://docs.aws.amazon.com/whitepapers/latest/aws-caf-operations-perspective/aws-caf-operations-perspective.html
 
 
-WAF:
+AWS WAF:
 
 https://aws.amazon.com/pt/architecture/well-architected
 
@@ -59,7 +59,7 @@ Arquitetura de referência
 https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/inspection-deployment-models-with-AWS-network-firewall-ra.pdf
 
 
-exemplos
+Exemplos
 
 https://github.com/aws-samples
 
