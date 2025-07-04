@@ -12,7 +12,9 @@ https://aws.amazon.com/pt/free
 
 Materiais
 
-AWS CAF - https://aws.amazon.com/pt/cloud-adoption-framework/
+AWS CAF 
+
+https://aws.amazon.com/pt/cloud-adoption-framework/
 
 https://docs.aws.amazon.com/whitepapers/latest/aws-caf-security-perspective/aws-caf-security-perspective.html
 
