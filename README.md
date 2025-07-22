@@ -16,13 +16,13 @@ AWS CAF
 
 -- https://aws.amazon.com/pt/cloud-adoption-framework/
 
-https://docs.aws.amazon.com/whitepapers/latest/aws-caf-security-perspective/aws-caf-security-perspective.html
+-- https://docs.aws.amazon.com/whitepapers/latest/aws-caf-security-perspective/aws-caf-security-perspective.html
 
 https://docs.aws.amazon.com/whitepapers/latest/aws-caf-business-perspective/aws-caf-business-perspective.html
 
 https://docs.aws.amazon.com/whitepapers/latest/aws-caf-people-perspective/aws-caf-people-perspective.html
 
-https://docs.aws.amazon.com/whitepapers/latest/aws-caf-governance-perspective/aws-caf-governance-perspective.html
+-- https://docs.aws.amazon.com/whitepapers/latest/aws-caf-governance-perspective/aws-caf-governance-perspective.html
 
 https://docs.aws.amazon.com/prescriptive-guidance/latest/aws-caf-platform-perspective/welcome.html
 
@@ -31,9 +31,9 @@ https://docs.aws.amazon.com/whitepapers/latest/aws-caf-operations-perspective/aw
 
 AWS WAF:
 
-https://aws.amazon.com/pt/architecture/well-architected
+-- https://aws.amazon.com/pt/architecture/well-architected
 
-https://docs.aws.amazon.com/pt_br/wellarchitected/latest/security-pillar/welcome.html
+-- https://docs.aws.amazon.com/pt_br/wellarchitected/latest/security-pillar/welcome.html
 
 
 CUSTOS: 
