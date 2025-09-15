@@ -1,9 +1,15 @@
 # cloudsec
 CloudSec Links
 
+Security Certification roadmap:
+
+https://pauljerimy.com/security-certification-roadmap/
+
+
 ISC2 CC 
 
 https://www.isc2.org/landing/1mcc
+
 
 Uso Gratuito AWS
 
@@ -11,6 +17,11 @@ https://aws.amazon.com/pt/free
 
 
 Materiais AWS
+
+TAGS
+
+https://docs.aws.amazon.com/whitepapers/latest/tagging-best-practices/tagging-best-practices.html
+
 
 AWS CAF 
 
